@@ -1,0 +1,18 @@
+{
+	"name": "pl_test",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait",
+				"description": "my test wait activity",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": []
+	}
+}
